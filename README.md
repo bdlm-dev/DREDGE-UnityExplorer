@@ -1,3 +1,12 @@
+# UnityExplorer for DREDGE
+
+A build of UnityExplorer for use with [Winch](https://github.com/Hacktix/Winch), for DREDGE.
+
+Built with HarmonyLib instead of HarmonyX
+
+
+---
+
 <p align="center">
   <img align="center" src="img/icon.png">
 </p>
